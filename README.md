@@ -1,3 +1,9 @@
+# Youtube Clone
+
+Simple React JS site that is a stripped down version of Youtube. You can search for a keyword and the app will fetch back videos from youtube.com and display on the screen.
+
+Demo: <a href="https://rleap.github.io/youtube_clone">Youtube Clone</a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
